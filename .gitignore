@@ -1,0 +1,6 @@
+/obj
+/src/sprites/*.h
+/src/sprites/*.c
+*.cdt
+*.dsk
+*.sna

@@ -1,0 +1,2 @@
+.globl sys_collision_update_blocks
+.globl sys_collision_update_bar
